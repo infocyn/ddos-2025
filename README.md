@@ -50,3 +50,30 @@ cd ddos_tool_2025
 
 # Install dependencies
 pip install -r requirements.txt
+
+python main.py
+
+[1] UDP Flood
+[2] SYN Flood (TCP)
+[3] HTTP Flood
+[4] Slowloris Attack
+[5] RUDY Attack
+[6] NTP Reflection Attack
+[7] HTTP Flood (Bypass Cloudflare)
+[8] Layer7 HTTP/1.1 Flood Attack
+[9] Layer7 HTTP/2 Flood Attack
+[10] Layer7 WebSocket Flood Attack
+[0] Exit
+
+
+
+python main.py
+# Select: 3 (HTTP Flood)
+# Target: https://example.com
+# Connections: 500
+# Duration (seconds): 60
+
+
+
+
+
