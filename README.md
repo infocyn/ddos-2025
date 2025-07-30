@@ -43,11 +43,10 @@ It provides **multi-layer attacks (L3/L4 & L7)**, **Cloudflare bypass techniques
 ## 📥 Installation
 ```bash
 # Clone repository
-git clone https://github.com/username/ddos_tool_2025.git
+git clone https://github.com/infocyn/ddos-2025.git
 
 # Navigate into the project folder
 cd ddos_tool_2025
-
 # Install dependencies
 pip install -r requirements.txt
 
