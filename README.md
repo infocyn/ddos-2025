@@ -65,9 +65,6 @@ python main.py
 [10] Layer7 WebSocket Flood Attack
 [0] Exit
 
-
-
-python main.py
 # Select: 3 (HTTP Flood)
 # Target: https://example.com
 # Connections: 500
